@@ -597,6 +597,10 @@ code {
   flex-shrink: 0;
 }
 
+/*added by Masaki*/
+.figure-item {
+  margin-bottom: 4rem;
+}
 
 /* Mobile Responsive Improvements */
 @media screen and (max-width: 768px) {
