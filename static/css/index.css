@@ -259,7 +259,8 @@ body {
 }
 
 .results-carousel .item {
-  margin: 1rem;
+  width: 80% !important;
+  margin: 1rem auto;
   overflow: hidden;
   padding: 1.5rem;
   font-size: 0;
@@ -277,9 +278,9 @@ body {
 
 .results-carousel .item img,
 .results-carousel video {
-  margin: 0 auto;
+  margin: 0;
   border-radius: var(--border-radius);
-  width: 70%;
+  width: 100%;
   height: auto;
 }
 
