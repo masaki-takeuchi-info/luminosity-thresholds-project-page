@@ -259,8 +259,7 @@ body {
 }
 
 .results-carousel .item {
-  width: 80% !important;
-  margin: 1rem auto;
+  margin: 1rem;
   overflow: hidden;
   padding: 1.5rem;
   font-size: 0;
