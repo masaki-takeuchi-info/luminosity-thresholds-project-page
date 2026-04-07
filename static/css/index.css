@@ -310,7 +310,7 @@ body {
 
 /* Section Titles */
 .title.is-3 {
-  font-family: 'Inter', sans-serif !important;
+  font-family: 'Google Sans', sans-serif !important;
   font-weight: 700 !important;
   color: var(--text-primary);
   margin-bottom: 2rem !important;
